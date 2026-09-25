@@ -1,4 +1,4 @@
-# IL-Tools-PAA-Utility-1.0.0
+# IL-Tools-PAA-Utility
 Drag-and-drop texture converter for Arma: Cold War Assault Remastered/Resistance.
 
 **File:** `IL-Tools-PAA-Utility-1.0.0.exe`  
