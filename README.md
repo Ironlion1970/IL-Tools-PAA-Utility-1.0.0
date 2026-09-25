@@ -1,13 +1,9 @@
 # IL-Tools-PAA-Utility-1.0.0
 Drag-and-drop texture converter for Arma: Cold War Assault Remastered/Resistance.
- IL Tools PAA Utility 1.0.0
-
-Drag-and-drop texture converter for Operation Flashpoint / Arma: Cold War Assault Remastered.
 
 **File:** `IL-Tools-PAA-Utility-1.0.0.exe`  
 **Version:** 1.0.0  
 **Date:** 25 Sep 2026  
-**Project:** https://github.com/Ironlion1970/IL-Tools-PAA-Utility
 
 Sister tools:
 
