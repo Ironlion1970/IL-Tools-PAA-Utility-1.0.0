@@ -7,7 +7,7 @@ Drag-and-drop texture converter for Arma: Cold War Assault Remastered/Resistance
 
 Sister tools:
 
-- Pack / unpack: [IL Tools PBO Utility](https://github.com/Ironlion1970/IL-Tools-PBO-Utility/releases)
+- Pack / Unpack: [IL Tools PBO Utility](https://github.com/Ironlion1970/IL-Tools-PBO-Utility/releases)
 - Models: [IL Tools Arma CWA Blender Plugin](https://github.com/Ironlion1970/IL-Tools-ARMA-CWA-Addon-Blender-Plugin)
 
 ---
